@@ -461,10 +461,10 @@ span.close {
   height: 40%;
 }
 .why-learn-imgs {
-  margin-top: -218px;
+  margin-top: -220px;
 }
 .why-learn-content {
-  height: 60%;
+  height: 70%;
   text-align: right;
   padding-right: 30px;
 }
@@ -486,6 +486,7 @@ span.close {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 8%;
 }
 
 /* feedback */
